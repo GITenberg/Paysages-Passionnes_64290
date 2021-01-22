@@ -1,0 +1,36 @@
+_repo: Paysages-Passionnes_64290
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Séché, Alphonse
+    gutenberg_agent_id: '52845'
+    url: http://www.gutenberg.org/2009/agents/52845
+  illustrator:
+    agent_name: Vibert, P.-E. (Pierre-Eugène)
+    aliases:
+    - Vibert, P.-E. (Pierre-Eugene)
+    - Vibert, Pierre Eugène
+    - Vibert, Pierre-Eugène
+    birthdate: 1875
+    deathdate: 1937
+    gutenberg_agent_id: '49887'
+    url: http://www.gutenberg.org/2009/agents/49887
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre-Eugène_Vibert
+creator:
+  author:
+    agent_name: Faure, Gabriel
+    gutenberg_agent_id: '52844'
+    url: http://www.gutenberg.org/2009/agents/52844
+description: ''
+gutenberg_issued: '2021-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64290'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Paysages Passionnés
+url: http://www.gutenberg.org/ebooks/64290
